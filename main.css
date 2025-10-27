@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26 px;
+}
+ 
+/*paragraph*/
+h5{
+ 
+
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 15px;
+    font-family: Helvetica;
+    font-weight: 500;
+}
+
+/* back button*/
+h4 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+     font-family: Arial;
+    font-weight: 700;
+ /*   border: 2px solid #333;*/
+
+
+}
+
+
+h3 {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 70px;
+    font-family: 'Helvetica';
+    color: black;
+    font-weight: 750;
+
+
+
+
+
+
+}
+/*nav buttons*/
+h2 {
+    text-align: right;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    color: white;
+ /*   border: 2px solid #333;*/
+
+
+}
+
+h1 {
+    margin: 140px auto;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 90px;
+    font-family: 'Arial';
+    color: white;
+    font-weight: 800;
+    /*
+    color: transparent;
+    font-weight: 100;
+    -webkit-text-stroke: 3px #000000;
+*/
+
+
+
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+a {
+    color: white;
+
+}
+
+
+
+/* END OF RESET */
